@@ -16,7 +16,10 @@ html {
 }
 
 body {
-  margin: 1.5rem;
+  margin: auto;
+  width: 60%;
+  height: 60%
+  
 }
 
 body,
